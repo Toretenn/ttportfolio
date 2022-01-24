@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../1. forsøk"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "2. attempt"
+	}
+}
